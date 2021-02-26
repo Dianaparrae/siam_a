@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(219, 187, 248);
+}
+
+.banner h1{
+    text-align: right;
+    font-size: 70px;
+    padding: 550px 50px;
+    float: right;
+}
+
+.banner{
+    background-image: url(../img/siam1.jpeg);
+    height: 550px;
+    background-repeat: no-repeat;
+    float: right;
+}
+
+.albumes{
+    margin: 0;
+    text-align: center;
+    padding: 10px;
+    color: rgb(54, 0, 104);
+}
+
+.albumes table{
+    padding: 30px 100px 30px 100px;
+}
+
+.albumes h3{
+    background-color: blueviolet;
+    border: 2px solid black;
+    text-align: center;
+    padding: 15px 30px 15px 30px;
+    margin: 20px;
+}
